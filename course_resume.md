@@ -2,10 +2,13 @@
 
 > Передивіться маркетингові матеріали (опис програми першого семестру, лендінг) та детальну програму першого семестру. Зробіть резюме - що можна додати/прибрати з маркетингової частини або додати/прибрати з навчальної (детальної).
 
-1. [Опис програми](https://youtu.be/WwPj60byBTI)
-2. [Підручник Python](https://sasha-kravtsova.gitbook.io/all_lessons/python)
-3. [Автоперевірка](https://docs.google.com/spreadsheets/d/1UuUg1CukA71y8hTrxzMaNTTnMqfqNcCjCNX0yW8RriQ/edit#gid=1962484563)
-4. [Soft Skills](https://sasha-kravtsova.gitbook.io/all_lessons/soft-skills)
+## Використані посилання
+
+1. [Сайт курсу](https://goiteens.com/course/python/?utm_source=google&utm_medium=cpc&utm_campaign=brand)
+2. [Опис програми](https://youtu.be/WwPj60byBTI)
+3. [Підручник Python](https://sasha-kravtsova.gitbook.io/all_lessons/python)
+4. [Автоперевірка](https://docs.google.com/spreadsheets/d/1UuUg1CukA71y8hTrxzMaNTTnMqfqNcCjCNX0yW8RriQ/edit#gid=1962484563)
+5. [Soft Skills](https://sasha-kravtsova.gitbook.io/all_lessons/soft-skills)
 
 ## Що можна додати/прибрати до маркетингової частини
 
@@ -115,6 +118,6 @@
 
 11. Робота з файлами.
 
-    Туд дуже скудна інформація про роботу з файлами. Можливо можна взяти цю ж лекцію з курсу Python Core і дещо її спростити.
+    Тут дуже скудна інформація про роботу з файлами. Можливо можна взяти цю ж лекцію з курсу Python Core і дещо її спростити.
 
 Поки це був поверхневий аналіз виходячи з обмеженості свого досвіду та часу. Можливо з часом я зможу дати більш грунтовний аналіз.
