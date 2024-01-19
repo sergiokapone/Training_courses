@@ -1,19 +1,33 @@
 """Урок. Об'єктно орієнтоване програмування в Python"""
 
-
-class Dog:
-    name: str = "Кубик"
-    age: int = 15
+class Animal:
+    name: str 
+    age: int
+    phrase: str
 
     def voice(self):
-        print("Гав! Гав! Гав!")
-
-bobik: Dog = Dog()
-
-
-bobik.name = "Бобік"
-bobik.age = 5
-
+        return self.phrase
+ 
+class Mammal(Animal):
+    phrase: str = "Дай молоко!"
+    def run(self):
+        return f"{self.name} is moving"
 
 
-bobik.voice()
+class Bird(Animal):
+    phrase: str = "Цвірінь! Цвірінь Цвірінь!"
+    def fly(self):
+        return f"{self.name} is moving"
+
+class Dog(Mammal):
+    phrase = "Гав! Гав! Гав"
+
+class Cat(Mammal):
+    phrase = "Няв! Няв! Няв"
+
+class Bat(Mammal, Bird):
+    pass
+
+bat = Bat()
+print(bat.voice())
+
