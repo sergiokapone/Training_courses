@@ -5,14 +5,15 @@ class Dog:
     name: str = "Кубик"
     age: int = 15
 
+    def voice(self):
+        print("Гав! Гав! Гав!")
 
 bobik: Dog = Dog()
 
-print(bobik.name)
-print(bobik.age)
 
 bobik.name = "Бобік"
 bobik.age = 5
 
-print(bobik.name)
-print(bobik.age)
+
+
+bobik.voice()
